@@ -1,1 +1,1 @@
-
+Use this script to extract low dimensional representations of noisless time averaged trajectories that serve as ground truth for training (pannel (a) to pannel (c) in Figure 1. of the associated paper).
