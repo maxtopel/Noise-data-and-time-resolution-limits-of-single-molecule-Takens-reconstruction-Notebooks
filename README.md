@@ -7,3 +7,6 @@ Run in order:
 3) 3: Learn low dimensional representations of dynamics from noisy time averaged head to tail data.
 4) 4: Learn intermanifold map between manifolds learned in 1 and 3
 5) 5: Learn backmaping between reconstructed manifold learned in 4 and all atom positions.
+
+
+![Schematic](Schematic.pdf)
